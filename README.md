@@ -40,4 +40,3 @@ The `proxy.sh` script performs the following actions:
 
 ## Done!
 
-Enjoy working with Swisstronik and be sure to subscribe to [Happy Cuan Airdrop](https://t.me/HappyCuanAirdrop)!
